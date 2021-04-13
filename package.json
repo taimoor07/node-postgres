@@ -1,0 +1,17 @@
+{
+  "name": "node-postgres",
+  "version": "1.0.0",
+  "description": "Sample app for connecting NodeJs & PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "taimoor",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}

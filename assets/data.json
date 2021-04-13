@@ -1,0 +1,17 @@
+{
+    "books": [ 
+        {
+            "id": 1,
+            "book_name": "nodejs programming",
+            "auther_name": "jhon",
+            "edition": "4",
+            "type_id": 1
+        },{
+            "id": 2,
+            "book_name": "comics",
+            "auther_name": "larry",
+            "edition": "3",
+            "type_id": 2
+        }
+    ]
+}
